@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Internal CSS</title>
+    <style>
+        body{
+            background-color:aqua;
+        }
+        div 
+        { 
+            border:5px white solid;
+            position:absolute; 
+            left: 450px; 
+            top: 250px; 
+            padding:100px;
+        }
+
+        button, input{
+            border-radius:20px;
+        }
+
+        .disp1{
+            background-color:lawngreen;
+            color:darkgreen;
+        }
+
+        button.disp1{
+            border:1px solid darkgreen;
+        }
+
+        ::placeholder{
+            color:red;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1 style="text-align: center"> Login Here</h1>
+        <form action="CSS.html">
+            <table>
+                <tr>
+                    <td> <label class="disp1" for="txtusername"> Username</label></td>
+                    <td>
+                        <input type="text" id="txtusername" placeholder="Username" required />
+                    </td>
+                </tr>
+                <br />
+                <tr>
+                    <td> <label class="disp1" for="txtpassword"> Password</label></td>
+                    <td>
+                        <input type="password" id="txtpassword" placeholder="Password" required maxlength="10" />
+                    </td>
+                </tr>
+            </table>
+            <br />
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            <button class="disp1">Login</button>
+            <button class="disp1">Cancel</button>
+        </form>
+    </div>
+</body>
+</html>

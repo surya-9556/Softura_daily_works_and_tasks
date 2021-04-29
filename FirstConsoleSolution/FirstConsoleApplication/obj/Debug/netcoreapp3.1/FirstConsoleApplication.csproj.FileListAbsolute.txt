@@ -1,0 +1,13 @@
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.exe
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.dll
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.dll
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.genruntimeconfig.cache

@@ -1,0 +1,98 @@
+﻿ <!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link href="C:\Users\Lenovo\OneDrive\Desktop\Softura\Task 2\bootstrap-5.0.0-beta3-dist\bootstrap-5.0.0-beta3-dist\css\bootstrap.min.css" rel="stylesheet" />
+    <title>Info</title>
+    <script>
+
+        var list1 = [];
+		var list2 = [];
+		var list3 = [];
+		var list4 = [];
+
+		var n = 1;
+		var x = 0;
+
+		function AddRow(){
+
+            var AddRown = document.getElementById('tableDisplay');
+            var NewRow = AddRown.insertRow(n);
+
+            list1[x] = document.getElementById("txtId").value;
+            list2[x] = document.getElementById("txtName").value;
+            list3[x] = document.getElementById("txtDate").value;
+            list4[x] = document.getElementById("txtPhone").value;
+
+            var cel1 = NewRow.insertCell(0);
+            var cel2 = NewRow.insertCell(1);
+            var cel3 = NewRow.insertCell(2);
+            var cel4 = NewRow.insertCell(3);
+
+            cel1.innerHTML = list1[x];
+            cel2.innerHTML = list2[x];
+            cel3.innerHTML = list3[x];
+            cel4.innerHTML = list4[x];
+
+            n++;
+            x++;
+        }
+
+        function removeData() {
+            AddRow.replaceWith("<h1>data removed</h1>")
+        }
+    </script>
+</head>
+<body>
+
+    <center style="background-color:skyblue">
+        <h1> Info page </h1>
+    </center>
+
+    <div class="alert alert-danger container p-3 my-3 bg-primary text-white" width="300px;">
+        <table>
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <td><input type="text" class="form-control" id="txtId"></td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>Name</th>
+                    <td><input type="text" class="form-control" id="txtName"></td>
+                </tr>
+                <tr>
+                    <th>DOB</th>
+                    <td><input type="date" class="form-control" id="txtDate"></td>
+                </tr>
+                <tr>
+                    <th>Phone</th>
+                    <td><input type="number" class="form-control" id="txtPhone"></td>
+                </tr>
+                <tr id="btnAdd">
+                    <td colspan="2"><button class="btn btn-success" id="btn" onclick="AddRow()">Add</button></td>
+                    <td colspan="2"><button class="btn btn-danger" id="btn" onclick="removeData()">Reset</button></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="alert alert-danger container p-3 my-3 bg-primary text-red">
+        <table border="3" id="tableDisplay">
+            <thead style="color:black">
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>DOB</th>
+                    <th>phone</th>
+                </tr>
+            </thead>
+
+        </table>
+    </div>
+
+
+</body>
+</html>

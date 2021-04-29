@@ -1,0 +1,79 @@
+﻿body
+{
+    background-color:lightgray;
+}
+
+img{
+    height:100px;
+    width:100px;
+}
+
+span{
+    text-decoration:underline;
+    color:blueviolet;
+    font-size:medium;
+}
+
+p{
+    font-size:medium;
+}
+
+div {
+    position: relative;
+    color: brown;
+    border: solid 2px white;
+    height: 175px;
+    width: 150px;
+    float: left;
+    margin: 5px 3px 0px 5px;
+    left: 0px;
+    top: 0px;
+    transition: left 3s top 3s;
+}
+
+#div1{
+    background-color:orangered;
+}
+
+/*@keyframes surya{
+    from{
+        left:0px;
+    }
+    to{
+        left:25px;
+    }
+}*/
+
+#div1:hover {
+    left: 5px;
+    top: 5px;
+}
+
+#div2 {
+    background-color: white;
+    animation-name: surya;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+}
+#div2:hover {
+    left: 5px;
+    top: 5px;
+}
+
+#div3 {
+    background-color: green;
+}
+
+#div3:hover {
+    left: 5px;
+    top: 5px;
+}
+
+#div4 {
+    background-color: tomato;
+}
+
+#div4:hover {
+    left: 5px;
+    top: 5px;
+}

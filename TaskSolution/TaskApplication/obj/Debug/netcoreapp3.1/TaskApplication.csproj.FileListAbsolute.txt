@@ -1,0 +1,13 @@
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\TaskSolution\TaskApplication\bin\Debug\netcoreapp3.1\TaskApplication.exe
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\TaskSolution\TaskApplication\bin\Debug\netcoreapp3.1\TaskApplication.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\TaskSolution\TaskApplication\bin\Debug\netcoreapp3.1\TaskApplication.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\TaskSolution\TaskApplication\bin\Debug\netcoreapp3.1\TaskApplication.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\TaskSolution\TaskApplication\bin\Debug\netcoreapp3.1\TaskApplication.dll
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\TaskSolution\TaskApplication\bin\Debug\netcoreapp3.1\TaskApplication.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\TaskSolution\TaskApplication\obj\Debug\netcoreapp3.1\TaskApplication.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\TaskSolution\TaskApplication\obj\Debug\netcoreapp3.1\TaskApplication.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\TaskSolution\TaskApplication\obj\Debug\netcoreapp3.1\TaskApplication.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\TaskSolution\TaskApplication\obj\Debug\netcoreapp3.1\TaskApplication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\TaskSolution\TaskApplication\obj\Debug\netcoreapp3.1\TaskApplication.dll
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\TaskSolution\TaskApplication\obj\Debug\netcoreapp3.1\TaskApplication.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day10\TaskSolution\TaskApplication\obj\Debug\netcoreapp3.1\TaskApplication.genruntimeconfig.cache

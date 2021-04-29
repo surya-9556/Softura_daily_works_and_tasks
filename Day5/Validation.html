@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link href="C:\Users\Lenovo\OneDrive\Desktop\Softura\Task 2\bootstrap-5.0.0-beta3-dist\bootstrap-5.0.0-beta3-dist\css\bootstrap.min.css" rel="stylesheet" />
+    <style>
+        div{
+            width:300px;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            var users = [
+                {
+                    username: "surya",
+                    password: "9182735903"
+                },
+                {
+                    username: "prakash",
+                    password: "9988776655"
+                }
+            ]
+
+            $("#btnSubmit").click(function () {
+                var username = $("#txtName").val();
+                var password = $("#txtPass").val();
+                for (var i = 0; i < users.length; i++) {
+                    if (users[i].username == username && users[i].password == password) {
+                        window.location.href = "info.html";
+                        return;
+                    }
+                alert("Invalied username or password")
+                }
+            })
+        })
+    </script>
+    <title> Validation</title>
+</head>
+<body>
+    <center><h1> Login</h1></center>
+    <div class="alert alert-danger container p-3 my-3 bg-primary text-white" width="300px;">
+        <label class="form-control" for="txtName">UserName</label>
+        <input class="form-control" type="text" id="txtName" />
+        <label class="form-control" for="txtPass">Password</label>
+        <input class="form-control" type="password" id="txtPass" />
+        <button class="btn btn-success" id="btnSubmit" onclick="Page2.html"> Login</button>
+        <button class="btn btn-danger" id="btnReset">Cancel</button>
+    </div>
+</body>
+</html>

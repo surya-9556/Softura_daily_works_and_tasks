@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link href="C:\Users\Lenovo\OneDrive\Desktop\Softura\Task 2\bootstrap-5.0.0-beta3-dist\bootstrap-5.0.0-beta3-dist\css\bootstrap.min.css" rel="stylesheet" />
+    <title>Scripting</title>
+    <style>
+        div{
+            width:300px;
+        }
+    </style>
+    <script>
+        function myFunction() {
+            //alert('you have clicked on button!!!');
+            var txtName = document.getElementById("txtName");
+            txtName.classList.add("border")
+            if (txtName.value == "") {
+                //alert("Name cannot be empty");
+                txtName.classList.add("border-danger")
+                document.getElementById("errName").innerHTML = "Name cannot be empty"
+            }
+            else {
+                //txtName.style.borderColor = "Green";
+                txtName.classList.add("border-success")
+                txtName.classList.remove("border-danger")
+                document.getElementById("errName").innerHTML = ""
+            }
+
+            var txtAge = document.getElementById("txtAge")
+            txtAge.classList.add("border")
+            if (txtAge.value <= 18 || txtAge.value >= 56) {
+                txtAge.classList.add("border-danger")
+                document.getElementById("errAge").innerHTML = "Invalied age"
+            }
+            else {
+                txtAge.classList.add("border-success")
+                txtAge.classList.remove("border-danger")
+                document.getElementById("errAge").innerHTML = ""
+            }
+
+            //var txtAge = document.getElementById("txtAge")
+            //txtAge.classList.add("border")
+            //alert(Number(txtAge.value)+10)
+        }
+    </script>
+</head>
+<body>
+    <h1> Hello here!!!</h1>
+    <div class="alert alert-primary">
+
+        <input class="form-control" type="text" id="txtName" />
+        <span id="errName">
+            
+        </span>
+        <input class="form-control" type="number" id="txtAge" />
+        <span id="errAge">
+
+        </span>
+        <button class="btn btn-primary" onclick="myFunction()"> Click me</button>
+
+    </div>
+</body>
+</html>
