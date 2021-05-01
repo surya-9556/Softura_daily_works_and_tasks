@@ -1,0 +1,13 @@
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\UnderstandingMoreOOPSSolution\UnderstandingMoreOOPSProject\obj\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\UnderstandingMoreOOPSSolution\UnderstandingMoreOOPSProject\obj\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\UnderstandingMoreOOPSSolution\UnderstandingMoreOOPSProject\obj\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\UnderstandingMoreOOPSSolution\UnderstandingMoreOOPSProject\obj\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\UnderstandingMoreOOPSSolution\UnderstandingMoreOOPSProject\bin\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.exe
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\UnderstandingMoreOOPSSolution\UnderstandingMoreOOPSProject\bin\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\UnderstandingMoreOOPSSolution\UnderstandingMoreOOPSProject\bin\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\UnderstandingMoreOOPSSolution\UnderstandingMoreOOPSProject\bin\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\UnderstandingMoreOOPSSolution\UnderstandingMoreOOPSProject\bin\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.dll
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\UnderstandingMoreOOPSSolution\UnderstandingMoreOOPSProject\bin\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\UnderstandingMoreOOPSSolution\UnderstandingMoreOOPSProject\obj\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.dll
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\UnderstandingMoreOOPSSolution\UnderstandingMoreOOPSProject\obj\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\UnderstandingMoreOOPSSolution\UnderstandingMoreOOPSProject\obj\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.genruntimeconfig.cache

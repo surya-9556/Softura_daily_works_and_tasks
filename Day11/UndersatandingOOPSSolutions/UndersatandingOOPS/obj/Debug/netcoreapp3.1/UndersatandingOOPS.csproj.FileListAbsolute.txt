@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\UndersatandingOOPSSolutions\UndersatandingOOPS\bin\Debug\netcoreapp3.1\UndersatandingOOPS.exe
+C:\Users\Lenovo\source\repos\UndersatandingOOPSSolutions\UndersatandingOOPS\bin\Debug\netcoreapp3.1\UndersatandingOOPS.deps.json
+C:\Users\Lenovo\source\repos\UndersatandingOOPSSolutions\UndersatandingOOPS\bin\Debug\netcoreapp3.1\UndersatandingOOPS.runtimeconfig.json
+C:\Users\Lenovo\source\repos\UndersatandingOOPSSolutions\UndersatandingOOPS\bin\Debug\netcoreapp3.1\UndersatandingOOPS.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\UndersatandingOOPSSolutions\UndersatandingOOPS\bin\Debug\netcoreapp3.1\UndersatandingOOPS.dll
+C:\Users\Lenovo\source\repos\UndersatandingOOPSSolutions\UndersatandingOOPS\bin\Debug\netcoreapp3.1\UndersatandingOOPS.pdb
+C:\Users\Lenovo\source\repos\UndersatandingOOPSSolutions\UndersatandingOOPS\obj\Debug\netcoreapp3.1\UndersatandingOOPS.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\UndersatandingOOPSSolutions\UndersatandingOOPS\obj\Debug\netcoreapp3.1\UndersatandingOOPS.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\UndersatandingOOPSSolutions\UndersatandingOOPS\obj\Debug\netcoreapp3.1\UndersatandingOOPS.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\UndersatandingOOPSSolutions\UndersatandingOOPS\obj\Debug\netcoreapp3.1\UndersatandingOOPS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\UndersatandingOOPSSolutions\UndersatandingOOPS\obj\Debug\netcoreapp3.1\UndersatandingOOPS.dll
+C:\Users\Lenovo\source\repos\UndersatandingOOPSSolutions\UndersatandingOOPS\obj\Debug\netcoreapp3.1\UndersatandingOOPS.pdb
+C:\Users\Lenovo\source\repos\UndersatandingOOPSSolutions\UndersatandingOOPS\obj\Debug\netcoreapp3.1\UndersatandingOOPS.genruntimeconfig.cache

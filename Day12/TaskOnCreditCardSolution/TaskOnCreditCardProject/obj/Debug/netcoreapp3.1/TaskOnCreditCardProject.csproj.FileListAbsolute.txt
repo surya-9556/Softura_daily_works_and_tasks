@@ -1,0 +1,13 @@
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\TaskOnCreditCardSolution\TaskOnCreditCardProject\bin\Debug\netcoreapp3.1\TaskOnCreditCardProject.exe
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\TaskOnCreditCardSolution\TaskOnCreditCardProject\bin\Debug\netcoreapp3.1\TaskOnCreditCardProject.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\TaskOnCreditCardSolution\TaskOnCreditCardProject\bin\Debug\netcoreapp3.1\TaskOnCreditCardProject.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\TaskOnCreditCardSolution\TaskOnCreditCardProject\bin\Debug\netcoreapp3.1\TaskOnCreditCardProject.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\TaskOnCreditCardSolution\TaskOnCreditCardProject\bin\Debug\netcoreapp3.1\TaskOnCreditCardProject.dll
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\TaskOnCreditCardSolution\TaskOnCreditCardProject\bin\Debug\netcoreapp3.1\TaskOnCreditCardProject.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\TaskOnCreditCardSolution\TaskOnCreditCardProject\obj\Debug\netcoreapp3.1\TaskOnCreditCardProject.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\TaskOnCreditCardSolution\TaskOnCreditCardProject\obj\Debug\netcoreapp3.1\TaskOnCreditCardProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\TaskOnCreditCardSolution\TaskOnCreditCardProject\obj\Debug\netcoreapp3.1\TaskOnCreditCardProject.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\TaskOnCreditCardSolution\TaskOnCreditCardProject\obj\Debug\netcoreapp3.1\TaskOnCreditCardProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\TaskOnCreditCardSolution\TaskOnCreditCardProject\obj\Debug\netcoreapp3.1\TaskOnCreditCardProject.dll
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\TaskOnCreditCardSolution\TaskOnCreditCardProject\obj\Debug\netcoreapp3.1\TaskOnCreditCardProject.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day12\TaskOnCreditCardSolution\TaskOnCreditCardProject\obj\Debug\netcoreapp3.1\TaskOnCreditCardProject.genruntimeconfig.cache
