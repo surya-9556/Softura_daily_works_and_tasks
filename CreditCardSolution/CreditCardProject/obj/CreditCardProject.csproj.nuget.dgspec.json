@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\CreditCardSolution\\CreditCardProject\\CreditCardProject.csproj": {}
+    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\CreditCardSolution\\CreditCardProject\\CreditCardProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\CreditCardSolution\\CreditCardProject\\CreditCardProject.csproj": {
+    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\CreditCardSolution\\CreditCardProject\\CreditCardProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\CreditCardSolution\\CreditCardProject\\CreditCardProject.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\CreditCardSolution\\CreditCardProject\\CreditCardProject.csproj",
         "projectName": "CreditCardProject",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\CreditCardSolution\\CreditCardProject\\CreditCardProject.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\CreditCardSolution\\CreditCardProject\\CreditCardProject.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\CreditCardSolution\\CreditCardProject\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\CreditCardSolution\\CreditCardProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

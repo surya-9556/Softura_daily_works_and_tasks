@@ -30,9 +30,9 @@ namespace CreditCardProject
 
             int num;
             int num3;
+            int sum = 0;
             int num4 = 0;
             int num5 = 0;
-            int sum = 0;
             for (int i = 0; i < RevrerseString.Length; i++)
             {
                 char v = RevrerseString[i];
@@ -53,11 +53,11 @@ namespace CreditCardProject
             //int CardNumber;
             int value = dt.CompareTo(DateTime.Today);
 
-            if (((num1.Length - 3) != 16 || (num1.Length - 3) != 15) && (value > 0) && (num2.Length == 3) && (sum % 10 == 0))
+            if ((num1.Length == 16 || num1.Length == 15) && (value > 0) && (num2.Length == 3) && (sum % 10 == 0))
             {
                 Console.WriteLine("Valied Credit card");
             }
-            else if ((num1.Length - 3) != 16 || (num1.Length - 3) != 15)
+            else if ((num1.Length != 16 & num1.Length > 16)|| (num1.Length != 15 & num1.Length < 15))
             {
                 Console.WriteLine("Invalied Card Number");
             }
@@ -68,6 +68,10 @@ namespace CreditCardProject
             else if (value < 0)
             {
                 Console.WriteLine("Expired already");
+            }
+            else if(sum%10 != 0)
+            {
+                Console.WriteLine("Credit card number is logically incorrect");
             }
             else
             {
