@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\CreditCardSolution\CreditCardProject\bin\Debug\netcoreapp3.1\CreditCardProject.exe
+C:\Users\Lenovo\source\repos\CreditCardSolution\CreditCardProject\bin\Debug\netcoreapp3.1\CreditCardProject.deps.json
+C:\Users\Lenovo\source\repos\CreditCardSolution\CreditCardProject\bin\Debug\netcoreapp3.1\CreditCardProject.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CreditCardSolution\CreditCardProject\bin\Debug\netcoreapp3.1\CreditCardProject.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\CreditCardSolution\CreditCardProject\bin\Debug\netcoreapp3.1\CreditCardProject.dll
+C:\Users\Lenovo\source\repos\CreditCardSolution\CreditCardProject\bin\Debug\netcoreapp3.1\CreditCardProject.pdb
+C:\Users\Lenovo\source\repos\CreditCardSolution\CreditCardProject\obj\Debug\netcoreapp3.1\CreditCardProject.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\CreditCardSolution\CreditCardProject\obj\Debug\netcoreapp3.1\CreditCardProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CreditCardSolution\CreditCardProject\obj\Debug\netcoreapp3.1\CreditCardProject.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CreditCardSolution\CreditCardProject\obj\Debug\netcoreapp3.1\CreditCardProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CreditCardSolution\CreditCardProject\obj\Debug\netcoreapp3.1\CreditCardProject.dll
+C:\Users\Lenovo\source\repos\CreditCardSolution\CreditCardProject\obj\Debug\netcoreapp3.1\CreditCardProject.pdb
+C:\Users\Lenovo\source\repos\CreditCardSolution\CreditCardProject\obj\Debug\netcoreapp3.1\CreditCardProject.genruntimeconfig.cache
