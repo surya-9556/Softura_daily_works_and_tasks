@@ -26,7 +26,8 @@ namespace CollectionsProject
                 Console.WriteLine("4. Update the series");
                 Console.WriteLine("5. Sort the series");
                 Console.WriteLine("6. Delete the series");
-                Console.WriteLine("7. Exit");
+                Console.WriteLine("7. Add series");
+                Console.WriteLine("8. Exit");
                 choice = Convert.ToInt32(Console.ReadLine());
                 switch (choice)
                 {
@@ -48,11 +49,15 @@ namespace CollectionsProject
                     case 6:
                         DeleteSeries();
                         break;
+                    case 7:
+                        Series series = CreateSeries();
+                        TSeries.Add(series.Id,series);
+                        break;
                     default:
                         Console.WriteLine("Invalied Choice");
                         break;
                 }
-            } while (choice != 9);
+            } while (choice != 8);
         }
 
         public void PrintAllSeries()
@@ -91,17 +96,15 @@ namespace CollectionsProject
             {
                 return 1;
             }
-            int Id = TSeries[TSeries.Keys.Count - 1].Id;
+            int Id = TSeries[TSeries.Count + 1].Id;
             Id++;
             return Id;
         }
 
         public int GetMovieIndexById(int id)
         {
-            int id = TSeries.Keys;
-            return TSeries.Data(m => m.Key == id);//lambda expression
-            //var q2 = TSeries.Where(p => p.Key == Id);
-            //return q2;
+            List<KeyValuePair<int, Series>> mlist = TSeries.ToList();
+            return mlist.FindIndex(m => m.Key == id);//Lambda Expression
         }
 
         private void DeleteSeries()

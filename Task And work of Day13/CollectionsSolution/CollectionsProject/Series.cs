@@ -57,10 +57,5 @@ namespace CollectionsProject
         {
             return "Id: " + Id + "\nseries Name " + Name +"\nNumber of seasons "+NumberOfSeasons+ "\nNumber of episodes " + Episodes + "\nEach episode duration" + EachEpisodeDuration;
         }
-
-        IEnumerator IEnumerable.GetEnumerator()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

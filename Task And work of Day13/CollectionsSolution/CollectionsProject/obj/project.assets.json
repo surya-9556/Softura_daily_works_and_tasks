@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Softura\\Day13\\CollectionsSolution\\CollectionsProject\\CollectionsProject.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\Day13\\CollectionsSolution\\CollectionsProject\\CollectionsProject.csproj",
       "projectName": "CollectionsProject",
-      "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Softura\\Day13\\CollectionsSolution\\CollectionsProject\\CollectionsProject.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\Day13\\CollectionsSolution\\CollectionsProject\\CollectionsProject.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Softura\\Day13\\CollectionsSolution\\CollectionsProject\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\Day13\\CollectionsSolution\\CollectionsProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -230,10 +230,10 @@ namespace CollectionsProject
                 }
             } while (choice != 8);
         }
-        static void Main(string[] a)
-        {
-            ManageMovies movies = new ManageMovies();
-            movies.PrintMenu();
-        }
+        //static void Main(string[] a)
+        //{
+        //    ManageMovies movies = new ManageMovies();
+        //    movies.PrintMenu();
+        //}
     }
 }
