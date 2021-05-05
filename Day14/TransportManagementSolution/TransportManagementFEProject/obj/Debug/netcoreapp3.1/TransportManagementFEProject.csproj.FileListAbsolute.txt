@@ -1,0 +1,16 @@
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementFEProject.exe
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementFEProject.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementFEProject.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementFEProject.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementFEProject.dll
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementFEProject.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementBLLibrary.dll
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementBLLibrary.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.dll
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.genruntimeconfig.cache

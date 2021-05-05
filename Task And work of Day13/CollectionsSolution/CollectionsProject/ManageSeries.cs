@@ -96,7 +96,9 @@ namespace CollectionsProject
             {
                 return 1;
             }
-            int Id = TSeries[TSeries.Count + 1].Id;
+            List<int> ids = TSeries.Keys.ToList();
+            ids.Sort();
+            int Id = TSeries[TSeries.Count - 1].Id;
             Id++;
             return Id;
         }
@@ -104,7 +106,11 @@ namespace CollectionsProject
         public int GetMovieIndexById(int id)
         {
             List<KeyValuePair<int, Series>> mlist = TSeries.ToList();
-            return mlist.FindIndex(m => m.Key == id);//Lambda Expression
+            return mlist.FindIndex(m => m.Key == id);
+
+            //int result = Convert.ToInt32(TSeries.ContainsKey(id));
+            //return result;
+
         }
 
         private void DeleteSeries()

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\Day13\\CollectionsSolution\\CollectionsProject\\CollectionsProject.csproj": {}
+    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\Task And work of Day13\\CollectionsSolution\\CollectionsProject\\CollectionsProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\Day13\\CollectionsSolution\\CollectionsProject\\CollectionsProject.csproj": {
+    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\Task And work of Day13\\CollectionsSolution\\CollectionsProject\\CollectionsProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\Day13\\CollectionsSolution\\CollectionsProject\\CollectionsProject.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\Task And work of Day13\\CollectionsSolution\\CollectionsProject\\CollectionsProject.csproj",
         "projectName": "CollectionsProject",
-        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\Day13\\CollectionsSolution\\CollectionsProject\\CollectionsProject.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\Task And work of Day13\\CollectionsSolution\\CollectionsProject\\CollectionsProject.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\Day13\\CollectionsSolution\\CollectionsProject\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Day10\\Task And work of Day13\\CollectionsSolution\\CollectionsProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

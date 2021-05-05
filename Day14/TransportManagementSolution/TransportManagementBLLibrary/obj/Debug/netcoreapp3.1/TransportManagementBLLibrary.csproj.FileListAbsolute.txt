@@ -1,0 +1,9 @@
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementBLLibrary\bin\Debug\netcoreapp3.1\TransportManagementBLLibrary.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementBLLibrary\bin\Debug\netcoreapp3.1\TransportManagementBLLibrary.dll
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementBLLibrary\bin\Debug\netcoreapp3.1\TransportManagementBLLibrary.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementBLLibrary\obj\Debug\netcoreapp3.1\TransportManagementBLLibrary.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementBLLibrary\obj\Debug\netcoreapp3.1\TransportManagementBLLibrary.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementBLLibrary\obj\Debug\netcoreapp3.1\TransportManagementBLLibrary.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementBLLibrary\obj\Debug\netcoreapp3.1\TransportManagementBLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementBLLibrary\obj\Debug\netcoreapp3.1\TransportManagementBLLibrary.dll
+C:\Users\Lenovo\OneDrive\Desktop\Softura\Day14\TransportManagementSolution\TransportManagementBLLibrary\obj\Debug\netcoreapp3.1\TransportManagementBLLibrary.pdb
